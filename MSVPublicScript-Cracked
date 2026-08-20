@@ -2192,9 +2192,3 @@ credits:AddLabel("Free Version")
 credits:AddLabel("All MSV is handsome")
         
 credits:AddLabel("Support Retselc always")
-
-  end
-end)
-GetKeyButton.MouseButton1Click:Connect(function()
- setclipboard("https://discord.gg/jJA73UpZJ") 
-end)
